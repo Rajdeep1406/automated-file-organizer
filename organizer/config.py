@@ -11,4 +11,4 @@ EXTENSION_MAP = {
 
 # Folder to organize
 # Change this to your actual test folder path
-DEFAULT_SOURCE_FOLDER = r"C:\Users\Tejas\Downloads"
+DEFAULT_SOURCE_FOLDER = r"E:\1+\New folder\Media\WhatsApp Documents"
